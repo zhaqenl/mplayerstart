@@ -20,7 +20,7 @@ search1=""
 search2=""
 
 # Default mplayer video options
-moptions="-ao alsa, -idx -fs"
+moptions="-ao alsa, -vo xv -idx -fs"
 
 # Audio Playback Options
 guiplayer="gmplayer"
